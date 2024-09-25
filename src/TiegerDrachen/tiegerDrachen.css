@@ -1,0 +1,94 @@
+
+
+
+.hexagram {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+  .yang-line {
+    font-size: 40px;
+    color: black;
+    margin: 10px auto;
+    margin-top: 35px;
+    width: 50px;
+  
+  }
+  
+  .yin-line {
+    font-size: 40px;
+    color: grey;
+    margin: 0 auto;
+    margin-top: 35px;
+    width: 50px;
+    display: flex;
+  }
+  
+  .coin {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .coin__front, .coin__back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .coin__front {
+    z-index: 1;
+  }
+  
+  .coin__back {
+    transform: rotateY(180deg);
+  }
+  
+  .flipping .coin__front {
+    transform: rotateY(0deg);
+  }
+  
+  .flipping .coin__back {
+    transform: rotateY(180deg);
+  }
+  
+  .previous-results {
+    margin-top: 20px;
+  }
+  
+  .previous-result {
+    margin-bottom: 20px;
+  }
+  .history {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  .hexagram-history {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .hexagram-history .yang-line,
+  .hexagram-history .yin-line {
+    font-size: 14px;
+  }
+  
+  
+
+  .interpretation{
+    display: block
+  }

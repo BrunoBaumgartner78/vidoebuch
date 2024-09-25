@@ -1,0 +1,85 @@
+/* src/tabs/tabs.css */
+
+.tabs {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5px;
+}
+
+.tab {
+  padding: 10px 20px;
+  margin: 0 2px;
+  background: var(--tab-bg-color);
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s, box-shadow 0.4s;
+  border-radius: 12px;
+  width: 45px;
+  font-size: smaller;
+  box-shadow: 8px 8px 16px var(--shadow-dark), -8px -8px 16px var(--shadow-light);
+  color: var(--tab-text-color);
+}
+
+.tab:hover {
+  background: var(--tab-bg-hover);
+}
+
+.tab:active {
+  transform: scale(0.95);
+}
+
+.tab.active {
+  background: var(--tab-bg-active);
+  font-weight: bold;
+  box-shadow: inset 8px 8px 16px var(--shadow-dark), inset -8px -8px 16px var(--shadow-light);
+}
+
+/* Media Queries */
+@media screen and (max-width: 900px) {
+  .tabs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+  .tab {
+    margin: 10px 0;
+    text-align: center;
+    max-width: 150px;
+    height: 45px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .tabs {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tab {
+    width: 100%;
+    max-width: 200px;
+    margin: 5px 0;
+  }
+}
+
+/* Light Mode */
+.light-mode {
+  --tab-bg-color: #e0e0e0;
+  --tab-bg-hover: #f0f0f0;
+  --tab-bg-active: #ffffff;
+  --shadow-dark: #aaaaaa;
+  --shadow-light: #ffffff;
+  --tab-text-color: #333333;
+}
+
+/* Dark Mode */
+.dark-mode {
+  --tab-bg-color: #333333;
+  --tab-bg-hover: #444444;
+  --tab-bg-active: #555555;
+  --shadow-dark: #000000;
+  --shadow-light: #444444;
+  --tab-text-color: #f0f0f0;
+}

@@ -1,0 +1,10 @@
+
+  
+  .flower {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    pointer-events: none; /* Verhindert, dass die Blüten die Benutzerinteraktion stören */
+    z-index: 3;
+}
+  

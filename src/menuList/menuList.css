@@ -1,0 +1,159 @@
+img{
+    height: 150px;
+    width: 150px;
+    margin: 0 auto
+  }
+  
+  .Logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  
+  .menu-card {
+    position: relative;
+    padding: 0;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px var(--shadow-dark), -8px -8px 16px var(--shadow-light);
+    background: var(--tab-bg-color);
+    color: var(--tab-text-color);
+    transition: background 0.3s ease, box-shadow 0.4s;
+    width: 100%;
+    height: 40%;
+    top: 19%;
+    opacity: 0.9;
+  }
+  
+  .menu-card h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+    
+  }
+  
+  .menu-card {
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    max-height: 45%;
+    padding: 0px;
+    background: var(--tab-bg-color);
+    color: var(--tab-text-color);
+    border-radius: 20px;
+    box-shadow: 8px 8px 16px var(--shadow-dark);
+    overflow: hidden; /* Hide overflow for neuromorphism effect */
+    margin: 0 auto;
+    margin-top: 5px;
+    z-index: 4;
+  
+  }
+  
+  
+  .scrollable-content {
+    position: relative;
+    display: block;
+    max-height: 100%; /* Adjust height as needed */
+    width: 95%;
+    height: 100%;
+    overflow-y: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: var(--tab-bg-color);
+    color: var(--tab-text-color);
+    box-shadow: 8px 8px 16px var(--shadow-dark), -8px -8px 16px var(--shadow-light);
+  }
+  
+  .scrollable-content::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .scrollable-content::-webkit-scrollbar-thumb {
+    background: var(--tab-bg-color);
+    color: var(--tab-text-color);
+    border-radius: 10px;
+  }
+  
+  .scrollable-content::-webkit-scrollbar-track {
+    background: var(--tab-bg-color);
+    color: var(--tab-text-color);
+    border-radius: 10px;
+  }
+  
+  .category-slide {
+    margin-bottom: 20px;
+    flex-direction: column;
+  }
+  
+  .category-slide h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .category-slide p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Media Queries */
+  
+   
+  @media screen and (max-width: 600px) {
+   .menu-card{
+  
+    max-height: 45%;
+    top: 40%;
+  }
+  }
+  
+  @media screen and (min-width: 601px) and (max-width: 1024px) {
+    .menu-card{
+      max-height: 45%;
+      top: 40%;
+    }
+    }
+  
+  
+  @media screen and (min-width: 1025px) {
+   
+  
+    .menu-card{
+      top: 340px;
+      height: 40%;
+    }
+  }
+  
+  
+  
+  /* Light Mode */
+  .light-mode {
+    --tab-bg-color: #e0e0e0;
+    --tab-bg-hover: #f0f0f0;
+    --tab-bg-active: #ffffff;
+    --shadow-dark: #aaaaaa;
+    --shadow-light: #ffffff;
+    --tab-text-color: #333333;
+    --header-bg-color: #e0e0e0;
+    --category-menu-bg-color: #ffffff;
+    --category-menu-text-color: #333333;
+    --body-bg-color: #ffffff;
+    --body-text-color: #000000;
+  }
+  
+  /* Dark Mode */
+  .dark-mode {
+    --tab-bg-color: #333333;
+    --tab-bg-hover: #444444;
+    --tab-bg-active: #555555;
+    --shadow-dark: #000000;
+    --shadow-light: #444444;
+    --tab-text-color: #f0f0f0;
+    --header-bg-color: #222222;
+    --category-menu-bg-color: #333333;
+    --category-menu-text-color: #f0f0f0;
+    --body-bg-color: #000000;
+    --body-text-color: #ffffff;
+  }
+  

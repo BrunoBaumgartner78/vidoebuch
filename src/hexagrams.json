@@ -1,0 +1,259 @@
+
+{
+  "1": {
+    "name": "Qian (Das Schöpferische)",
+    "description": "Das Schöpferische steht für Stärke und Aktivität. Es repräsentiert reines Yang, positive Energie und Schöpfung."
+  },
+  "2": {
+    "name": "Kun (Das Empfangende)",
+    "description": "Das Empfangende steht für Hingabe und Sanftmut. Es repräsentiert reines Yin, Empfänglichkeit und Nurtur."
+  },
+  "3": {
+    "name": "Zhun (Der Anfang)",
+    "description": "Der Anfang steht für das Starten neuer Projekte und Herausforderungen. Es ist eine Zeit der Vorbereitung und des Wachstums."
+  },
+  "4": {
+    "name": "Meng (Die Jugend)",
+    "description": "Die Jugend symbolisiert Unreife und Lernen. Es ist eine Zeit, in der man Geduld und Anleitung benötigt."
+  },
+  "5": {
+    "name": "Xu (Das Warten)",
+    "description": "Das Warten steht für Geduld und die richtige Zeit für Handlungen. Es erfordert Ausdauer und Vertrauen in den Prozess."
+  },
+  "6": {
+    "name": "Song (Streit)",
+    "description": "Streit steht für Konflikte und Herausforderungen. Es erfordert eine Strategie und Überlegung, um die Situation zu meistern."
+  },
+  "7": {
+    "name": "Shi (Armee)",
+    "description": "Die Armee symbolisiert Organisation und Führung. Es geht darum, sich zu vereinigen und strategisch vorzugehen."
+  },
+  "8": {
+    "name": "Bi (Vereinigung)",
+    "description": "Vereinigung steht für Zusammenarbeit und Gemeinschaft. Es geht darum, gemeinsame Ziele zu verfolgen und Zusammenhalt zu stärken."
+  },
+  "9": {
+    "name": "Xiao Xu (Die Zähmung des Kleinen)",
+    "description": "Die Zähmung des Kleinen steht für die Kontrolle über kleinere Dinge. Es geht darum, Geduld und Aufmerksamkeit in kleinen Angelegenheiten zu zeigen."
+  },
+  "10": {
+    "name": "Lu (Das Auftreten)",
+    "description": "Das Auftreten steht für das Verhalten und die äußere Erscheinung. Es geht darum, sich angemessen und im Einklang mit den Erwartungen zu zeigen."
+  },
+  "11": {
+    "name": "Tai (Der Friede)",
+    "description": "Der Friede steht für Harmonie und Balance. Es ist eine Zeit des Wohlstands und des positiven Wandels."
+  },
+  "12": {
+    "name": "Pi (Der Stillstand)",
+    "description": "Der Stillstand symbolisiert Zeiten des Rückzugs oder der Stagnation. Es ist wichtig, sich Zeit zur Reflexion und Erneuerung zu nehmen."
+  },
+  "13": {
+    "name": "Tong Ren (Geselligkeit)",
+    "description": "Geselligkeit steht für Gemeinschaft und freundliche Verbindungen. Es geht darum, Beziehungen zu pflegen und sich mit anderen zu verbinden."
+  },
+  "14": {
+    "name": "Da You (Der große Besitz)",
+    "description": "Der große Besitz steht für Wohlstand und Ressourcen. Es geht darum, Verantwortung zu übernehmen und Ressourcen effektiv zu nutzen."
+  },
+  "15": {
+    "name": "Qian (Die Demut)",
+    "description": "Die Demut steht für Bescheidenheit und Selbstkontrolle. Es geht darum, in Demut zu handeln und sich in schwierigen Zeiten nicht zu überschätzen."
+  },
+  "16": {
+    "name": "Yu (Die Begeisterung)",
+    "description": "Die Begeisterung symbolisiert Enthusiasmus und Initiative. Es ist eine Zeit, in der Motivation und positive Energie wichtig sind."
+  },
+  "17": {
+    "name": "Sui (Die Nachfolge)",
+    "description": "Die Nachfolge steht für Anpassung und das Folgen der Führung. Es geht darum, flexibel zu sein und sich an neue Situationen anzupassen."
+  },
+  "18": {
+    "name": "Gu (Die Korrektur)",
+    "description": "Die Korrektur symbolisiert die Notwendigkeit von Veränderungen und Verbesserungen. Es geht darum, Fehler zu erkennen und Maßnahmen zur Behebung zu ergreifen."
+  },
+  "19": {
+    "name": "Lin (Die Annäherung)",
+    "description": "Die Annäherung steht für Fortschritt und das Herantasten an Ziele. Es geht darum, Strategien zu entwickeln und Schritte in die richtige Richtung zu unternehmen."
+  },
+  "20": {
+    "name": "Guan (Die Beobachtung)",
+    "description": "Die Beobachtung steht für Achtsamkeit und das Beobachten von Entwicklungen. Es geht darum, aufmerksam zu sein und Einsichten zu gewinnen."
+  },
+  "21": {
+    "name": "Shi He (Die Zähmung des Raubtiers)",
+    "description": "Die Zähmung des Raubtiers steht für das Überwinden von Schwierigkeiten und Herausforderungen. Es erfordert Entschlossenheit und Kraft, um Hindernisse zu überwinden."
+  },
+  "22": {
+    "name": "Bi (Die Verzierung)",
+    "description": "Die Verzierung symbolisiert Ästhetik und Schönheit. Es geht darum, Dinge mit Sorgfalt und Kreativität zu gestalten und zu verschönern."
+  },
+  "23": {
+    "name": "Bo (Die Zerbrechlichkeit)",
+    "description": "Die Zerbrechlichkeit steht für Unsicherheit und Instabilität. Es ist wichtig, vorsichtig zu sein und stabilität zu suchen."
+  },
+  "24": {
+    "name": "Fu (Die Rückkehr)",
+    "description": "Die Rückkehr symbolisiert den Neustart und das Zurückkehren zu den grundlegenden Prinzipien. Es ist eine Zeit der Erneuerung und des Neubeginns."
+  },
+  "25": {
+    "name": "Wu Wang (Das Unverfälschte)",
+    "description": "Das Unverfälschte steht für Echtheit und Integrität. Es geht darum, ehrlich zu sein und authentisch zu handeln."
+  },
+  "26": {
+    "name": "Da Xu (Die Zähmung des Großen)",
+    "description": "Die Zähmung des Großen steht für das Management von großen Herausforderungen. Es geht darum, Ressourcen und Fähigkeiten effektiv einzusetzen."
+  },
+  "27": {
+    "name": "Yi (Die Ernährung)",
+    "description": "Die Ernährung steht für die Versorgung mit Energie und Ressourcen. Es geht darum, sich selbst und andere zu nähren und zu unterstützen."
+  },
+  "28": {
+    "name": "Da Guo (Die Überlastung)",
+    "description": "Die Überlastung symbolisiert Herausforderungen und Belastungen. Es ist wichtig, auf das Gleichgewicht zu achten und Unterstützung zu suchen."
+  },
+  "29": {
+    "name": "Kan (Die Tiefe)",
+    "description": "Die Tiefe steht für das Durchdringen von Schwierigkeiten und das Erkunden der inneren Tiefe. Es geht darum, Herausforderungen zu bewältigen und sich innerlich zu stärken."
+  },
+  "30": {
+    "name": "Li (Das Feuer)",
+    "description": "Das Feuer steht für Licht und Klarheit. Es geht darum, Erleuchtung zu suchen und positive Energie zu nutzen."
+  },
+  "31": {
+    "name": "Xian (Der Einfluss)",
+    "description": "Der Einfluss symbolisiert Anziehungskraft und Beeinflussung. Es geht darum, Beziehungen zu pflegen und positive Einflüsse zu nutzen."
+  },
+  "32": {
+    "name": "Heng (Die Kontinuität)",
+    "description": "Die Kontinuität steht für Beständigkeit und Ausdauer. Es geht darum, konstant zu bleiben und langfristige Ziele zu verfolgen."
+  },
+  "33": {
+    "name": "Dun (Die Zurückhaltung)",
+    "description": "Die Zurückhaltung steht für das Bewahren von Besonnenheit und das Vermeiden von Übermaß. Es geht darum, geduldig zu sein und zu warten."
+  },
+  "34": {
+    "name": "Da Zhuang (Die große Stärke)",
+    "description": "Die große Stärke symbolisiert Macht und Einfluss. Es geht darum, Energie und Autorität effektiv zu nutzen."
+  },
+  "35": {
+    "name": "Jin (Der Fortschritt)",
+    "description": "Der Fortschritt steht für Wachstum und Entwicklung. Es ist eine Zeit des Aufstiegs und des Erfolgs."
+  },
+  "36": {
+    "name": "Ming Yi (Das Verborgene Licht)",
+    "description": "Das verborgene Licht steht für Herausforderungen und das Verbergen der wahren Absichten. Es geht darum, vorsichtig zu agieren und die richtigen Schritte zu wählen."
+  },
+  "37": {
+    "name": "Jia Ren (Die Familie)",
+    "description": "Die Familie symbolisiert familiäre Bindungen und soziale Struktur. Es geht darum, in der Gemeinschaft zu agieren und Verantwortung zu übernehmen."
+  },
+  "38": {
+    "name": "Kui (Die Feindschaft)",
+    "description": "Die Feindschaft steht für Differenzen und Konflikte. Es ist wichtig, diplomatisch zu agieren und Spannungen zu entschärfen."
+  },
+  "39": {
+    "name": "Jian (Das Hemmnis)",
+    "description": "Das Hemmnis symbolisiert Blockaden und Hindernisse. Es geht darum, Wege zu finden, um Herausforderungen zu überwinden."
+  },
+  "40": {
+    "name": "Xie (Die Befreiung)",
+    "description": "Die Befreiung steht für die Überwindung von Schwierigkeiten und das Finden von Freiheit. Es geht darum, Lösungen zu finden und sich von Belastungen zu befreien."
+  },
+  "41": {
+    "name": "Sun (Die Minderung)",
+    "description": "Die Minderung symbolisiert das Reduzieren von Ressourcen oder Erwartungen. Es geht darum, zu entschleunigen und das Wesentliche zu fokussieren."
+  },
+  "42": {
+    "name": "Yi (Die Erhöhung)",
+    "description": "Die Erhöhung steht für Fortschritt und Wachstum. Es geht darum, Chancen zu nutzen und sich weiterzuentwickeln."
+  },
+  "43": {
+    "name": "Guai (Die Durchsetzung)",
+    "description": "Die Durchsetzung symbolisiert die Notwendigkeit von Entscheidungen und Durchsetzungskraft. Es geht darum, klare Maßnahmen zu ergreifen und Herausforderungen zu meistern."
+  },
+  "44": {
+    "name": "Gou (Die Begegnung)",
+    "description": "Die Begegnung steht für das Zusammentreffen von Menschen und Ideen. Es geht darum, Verbindungen herzustellen und neue Möglichkeiten zu erkunden."
+  },
+  "45": {
+    "name": "Cui (Die Versammlung)",
+    "description": "Die Versammlung symbolisiert die Zusammenkunft von Gruppen und Gemeinschaften. Es geht darum, sich zu vereinen und gemeinsame Ziele zu verfolgen."
+  },
+  "46": {
+    "name": "Sheng (Das Aufsteigen)",
+    "description": "Das Aufsteigen steht für das Erreichen neuer Höhen und das Streben nach Erfolg. Es ist eine Zeit des Wachstums und des Fortschritts."
+  },
+  "47": {
+    "name": "Kun (Die Einschränkung)",
+    "description": "Die Einschränkung steht für Begrenzungen und Herausforderungen. Es geht darum, Residenz und Disziplin zu zeigen."
+  },
+  "48": {
+    "name": "Jing (Der Brunnen)",
+    "description": "Der Brunnen symbolisiert die Quelle und den Zugang zu Ressourcen. Es geht darum, das Potenzial zu nutzen und Zugang zu Wissen und Unterstützung zu finden."
+  },
+  "49": {
+    "name": "Ge (Die Revolution)",
+    "description": "Die Revolution steht für Veränderungen und neue Ansätze. Es geht darum, alte Strukturen abzulegen und Erneuerungen vorzunehmen."
+  },
+  "50": {
+    "name": "Ding (Der Kessel)",
+    "description": "Der Kessel symbolisiert die Vorbereitung und das Kochen von Nahrungsmitteln. Es geht darum, sich vorzubereiten und sich auf zukünftige Herausforderungen einzustellen."
+  },
+  "51": {
+    "name": "Zhen (Der Donner)",
+    "description": "Der Donner steht für plötzliche Veränderungen und Erschütterungen. Es ist eine Zeit der Überraschungen und der schnellen Reaktionen."
+  },
+  "52": {
+    "name": "Gen (Der Berg)",
+    "description": "Der Berg symbolisiert Stabilität und Standhaftigkeit. Es geht darum, standhaft zu bleiben und die Herausforderungen zu meistern."
+  },
+  "53": {
+    "name": "Jian (Die Entwicklung)",
+    "description": "Die Entwicklung steht für Wachstum und langsames Fortschreiten. Es geht darum, Geduld zu zeigen und kontinuierlich voranzukommen."
+  },
+  "54": {
+    "name": "Gui Mei (Die Heiratsanbahnung)",
+    "description": "Die Heiratsanbahnung steht für die Vorbereitung und den Beginn neuer Beziehungen. Es geht darum, sich auf neue Partnerschaften vorzubereiten."
+  },
+  "55": {
+    "name": "Feng (Der Überfluss)",
+    "description": "Der Überfluss symbolisiert Wohlstand und Fülle. Es geht darum, den Reichtum zu genießen und Verantwortung zu übernehmen."
+  },
+  "56": {
+    "name": "Lu (Der Reisende)",
+    "description": "Der Reisende steht für Bewegung und Reisen. Es geht darum, neue Wege zu erkunden und Erfahrungen zu sammeln."
+  },
+  "57": {
+    "name": "Xun (Der Wind)",
+    "description": "Der Wind symbolisiert Veränderung und Flexibilität. Es geht darum, sich anzupassen und auf neue Umstände zu reagieren."
+  },
+  "58": {
+    "name": "Dui (Das Freuen)",
+    "description": "Das Freuen steht für Freude und positives Engagement. Es geht darum, sich zu erfreuen und positive Energie zu verbreiten."
+  },
+  "59": {
+    "name": "Huan (Die Auflösung)",
+    "description": "Die Auflösung steht für das Auflösen von Barrieren und das Öffnen von Möglichkeiten. Es geht darum, Hindernisse zu überwinden und sich weiterzuentwickeln."
+  },
+  "60": {
+    "name": "Jie (Die Begrenzung)",
+    "description": "Die Begrenzung symbolisiert das Setzen von Grenzen und Einschränkungen. Es geht darum, klare Regeln aufzustellen und sich an diese zu halten."
+  },
+  "61": {
+    "name": "Zhong Fu (Das Innere Wahrnehmen)",
+    "description": "Das Innere Wahrnehmen steht für Intuition und Selbstverständnis. Es geht darum, innerlich klar zu sein und sich selbst zu verstehen."
+  },
+  "62": {
+    "name": "Xiao Guo (Das Kleine Überschreiten)",
+    "description": "Das Kleine Überschreiten symbolisiert das Überschreiten kleinerer Grenzen. Es geht darum, sich vorsichtig weiterzuentwickeln und kleine Schritte zu machen."
+  },
+  "63": {
+    "name": "Ji (Die Vollendung)",
+    "description": "Die Vollendung steht für den Abschluss von Projekten und Zielen. Es geht darum, erfolgreich abzuschließen und die Ergebnisse zu genießen."
+  },
+  "64": {
+    "name": "Wei Ji (Das Noch-Nicht-Geschaffene)",
+    "description": "Das Noch-Nicht-Geschaffene symbolisiert das Potenzial und die Möglichkeit von zukünftigen Entwicklungen. Es geht darum, sich auf kommende Veränderungen vorzubereiten."
+  }
+}

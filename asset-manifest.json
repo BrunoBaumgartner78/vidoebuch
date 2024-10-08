@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vidoebuch/static/css/main.c0541bdf.css",
-    "main.js": "/vidoebuch/static/js/main.3d307d24.js",
-    "static/media/hex2.mp4": "/vidoebuch/static/media/hex2.b9fcc5886d00f9c4c8a9.mp4",
-    "static/media/hex1.mp4": "/vidoebuch/static/media/hex1.fc73df0e68cbe40b3a9a.mp4",
-    "static/media/yellow.mp4": "/vidoebuch/static/media/yellow.0ab4804c2aa1aa2b721d.mp4",
-    "static/media/hex.mp4": "/vidoebuch/static/media/hex.c42b30e2bd83f28f5513.mp4",
-    "static/media/coin.png": "/vidoebuch/static/media/coin.743915f2c9d4753993b0.png",
-    "index.html": "/vidoebuch/index.html",
-    "main.c0541bdf.css.map": "/vidoebuch/static/css/main.c0541bdf.css.map",
-    "main.3d307d24.js.map": "/vidoebuch/static/js/main.3d307d24.js.map"
+    "main.css": "/halloween/static/css/main.3acbe491.css",
+    "main.js": "/halloween/static/js/main.0f8eebcd.js",
+    "static/media/hex2.mp4": "/halloween/static/media/hex2.b9fcc5886d00f9c4c8a9.mp4",
+    "static/media/hex1.mp4": "/halloween/static/media/hex1.fc73df0e68cbe40b3a9a.mp4",
+    "static/media/yellow.mp4": "/halloween/static/media/yellow.0ab4804c2aa1aa2b721d.mp4",
+    "static/media/hex.mp4": "/halloween/static/media/hex.c42b30e2bd83f28f5513.mp4",
+    "static/media/coin.png": "/halloween/static/media/coin.743915f2c9d4753993b0.png",
+    "index.html": "/halloween/index.html",
+    "main.3acbe491.css.map": "/halloween/static/css/main.3acbe491.css.map",
+    "main.0f8eebcd.js.map": "/halloween/static/js/main.0f8eebcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0541bdf.css",
-    "static/js/main.3d307d24.js"
+    "static/css/main.3acbe491.css",
+    "static/js/main.0f8eebcd.js"
   ]
 }
